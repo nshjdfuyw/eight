@@ -1,1 +1,1 @@
-char array[];
+int b;
