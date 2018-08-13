@@ -1,3 +1,3 @@
 main(){
-	printf("hello world","%s");
+	printf("hello world","%s,%i");
 }
